@@ -8,7 +8,6 @@ Admin : would be the only one with the access to the Operations(ADD,EDIT,DELETE)
 for Admin preference => 
 
 email: shareesh121@gmail.com  
-
 password:aaa
 
 User: Has the preference to view the guide Details of each guides and booking the guide as per their selection.
